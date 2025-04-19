@@ -12,4 +12,3 @@
 multiplicacao <- function(a, b) {
   a*b
 }
-help("multiplicacao")
